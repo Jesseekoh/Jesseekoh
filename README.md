@@ -15,7 +15,9 @@
 ---
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-- 🌱 I’m Jesse - a full-stack software engineer passionate about solving real-world problems using software. I
+- 🌱 I’m Jesse - a full-stack software engineer passionate about solving real-world problems using software.
+- 🎓 I'm a Computer Science undergrad. Currently in my second year
+- 🔭 I’m currently taking Andrew Ng's Machine learning specialization course
 
 ### 👨🏽‍💻 About Me :
 <!--
@@ -37,4 +39,7 @@ Here are some ideas to get you started:
 ### 🔥My Stats:
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesseekoh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Jesseekoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseekoh)](https://github-readme-stats.vercel.app/api?username=jesseekoh&show_icons=true&theme=dark)
+
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ablfvfne6ont7aqyg5kgvpgdi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ablfvfne6ont7aqyg5kgvpgdi4&redirect=true)

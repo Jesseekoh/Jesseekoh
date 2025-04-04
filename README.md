@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### 🔥My Stats:
 ---
 
-[![Jesseekoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseekoh)](https://github-readme-stats.vercel.app/api?username=jesseekoh&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseekoh&show_icons=true&theme=dark)
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ablfvfne6ont7aqyg5kgvpgdi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ablfvfne6ont7aqyg5kgvpgdi4&redirect=true)

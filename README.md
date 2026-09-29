@@ -16,15 +16,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
 - 🌱 I’m Jesse - a full-stack software engineer passionate about solving real-world problems using software.
-- 🎓 I'm a Computer Science undergrad. Currently in my second year
-- 🔭 I’m currently taking Andrew Ng's Machine learning specialization course
+- 🎓 I'm a Computer Science undergrad. Currently in my third year
+- 🔭 I’m currently exploring AI engineering and computer graphics.
 
 ### 👨🏽‍💻 About Me :
 <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🎓 I'm a Computer Science undergrad. Currently in my second year
+- 🎓 I'm a Computer Science undergrad.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  ---
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,flask,mongodb,mysql,postgres,sqlite,redis,docker,nginx,c&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,NestJS,express,python,flask,mongodb,mysql,postgres,sqlite,redis,docker,nginx,c&theme=dark&perline=9)](https://skillicons.dev)
 
 ### 🔥My Stats:
 ---

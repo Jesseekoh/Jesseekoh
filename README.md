@@ -2,7 +2,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqNWVzdncyMmtkd2VjYTlyOWxrODJoZHhyNTI2d3JrcTcyNHFrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100" style="border-radius: 16px;"/>
 	<div id="badges" align="center">
-		<a>
+		<a href="https://linkedin.com/in/jesseekoh">
 			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 		</a>
 		<a>
